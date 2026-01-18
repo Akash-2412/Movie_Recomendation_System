@@ -30,7 +30,7 @@ movie/
 
 ⚙️ Installation
 Clone the repository
-git clone https://github.com/your-username/movie-recommender.git
+git clone https://github.com/Akash-2412/Movie_Recomendation_System.git
 cd movie-recommender
 Install dependencies
 pip install -r requirements.txt

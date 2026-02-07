@@ -2,9 +2,6 @@
 An AI-powered Movie Recommender built using Python, Streamlit, Machine Learning, and Google Gemini AI.
 It recommends similar movies and generates AI-based movie posters dynamically.
 
-🚀 Live Demo
-👉 http://10.247.108.158:8501/
-
 🧠 Features
 Movie recommendation using similarity model
 AI poster generation using Google Gemini API
